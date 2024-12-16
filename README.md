@@ -12,7 +12,7 @@ This cost advantage underscores the importance of determining whether the first 
 * The rate of successful landings over the years
 * Best predictive model for successful landings (binary classification)
 
-##Executive Summary
+## Executive Summary
 The research attempts to identify the factors for a successful rocket landing. To make this determination, the following methodologies were used:
 
 * Collect data using SpaceX REST API and web scraping techniques from a wiki page
